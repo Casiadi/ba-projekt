@@ -25,6 +25,19 @@ This project sets up a complete data monitoring and analysis environment using D
 - Accessible at `http://localhost:8888`
 - Notebooks stored in `./jupyter_notebooks`
 
+## Visualizations
+
+Here are some examples of the visualizations you can create with this platform:
+
+![Grafana Dashboard Overview](pictures/Screenshot%202025-06-13%20235027.png)
+*Main dashboard overview showing key metrics and data visualization*
+
+![Detailed Metrics View](pictures/Screenshot%202025-06-11%20151700.png)
+*Detailed view of specific metrics and their trends*
+
+![Data Analysis Interface](pictures/Screenshot%202025-06-11%20151609.png)
+*Interactive data analysis interface in Jupyter*
+
 ## Getting Started
 
 1. Ensure you have Docker and Docker Compose installed on your system
